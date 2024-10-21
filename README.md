@@ -43,7 +43,7 @@ python3 -m pip install -r requirements.txt
 Add the following line to your `.zshrc` file in your `home` directory:
 
 ```bash
-alias paco="python3 /home/francinette/main.py"
+alias paco="python3 /home/<intra login>/francinette/main.py"
 ```
 
 4) Create a `Makefile` and test your functions!
